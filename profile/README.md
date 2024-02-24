@@ -1,6 +1,6 @@
 # Echo Labs
 
-![Echo Labs Robot](profile/docs/images/echo-labs.webp)
+![Echo Labs Robot](https://storage.echolabs.dev/assets/echo-labs.png)
 
 Building tools and products for the future.
 
