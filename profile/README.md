@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://storage.echolabs.dev/assets/github-banner.webp" alt="Echo Labs avatar" width="100%" height="auto" />
+    <img src="https://storage.echolabs.dev/assets/github-banner.webp?v=2" alt="Echo Labs avatar" width="100%" height="auto" />
 </p>
 
 # Echo Labs
