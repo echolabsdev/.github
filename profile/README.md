@@ -4,6 +4,6 @@
 
 # Echo Labs
 
-Building tools and products for the future.
+Specializing in Laravel, we craft world-class developer experiences.
 
-More soon...
+We're currently focused on building [Sparkle](https://github.com/echolabsdev/sparkle), a Laravel package that empowers artisans to build powerful LLM integrations and incredible workflows.
