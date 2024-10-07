@@ -4,6 +4,6 @@
 
 # Echo Labs
 
-Specializing in Laravel, we craft world-class developer experiences.
+Specializing in Laravel, we craft developer experiences.
 
-We're currently focused on building [Sparkle](https://github.com/echolabsdev/sparkle), a Laravel package that empowers artisans to build powerful LLM integrations and incredible workflows.
+We're currently focused on building [Prism](https://github.com/echolabsdev/Prism), a powerful Laravel package for integrating Large Language Models (LLMs) into your applications.
